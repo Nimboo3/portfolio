@@ -25,15 +25,6 @@ Full-stack eCommerce system built with event-driven microservices. Designed a Ka
 
 ---
 
-##  Intelligent Document QA Platform
-**Stack:** Next.js • TypeScript • Supabase • OpenAI • pgvector  
-**Description:**  
-AI-powered document chat platform using retrieval-augmented generation (RAG). Implements vector search with pgvector embeddings for contextually accurate answers and Supabase edge functions for secure, serverless execution.  
-
-🔗 [Repository](https://github.com/yourusername/document-qa-platform)
-
----
-
 ##  Real-Time Financial Data Streaming System
 **Stack:** Apache Kafka • AWS EC2/S3 • Python  
 **Description:**  
